@@ -1,0 +1,15 @@
+# Certificats et clés privées (ne jamais publier)
+nginx/certs/
+*.pem
+*.key
+
+# Variables d'environnement
+.env
+
+# Données internes de LocalStack
+localstack-data/
+
+# Fichiers du système et de l'éditeur
+.DS_Store
+Thumbs.db
+.vscode/

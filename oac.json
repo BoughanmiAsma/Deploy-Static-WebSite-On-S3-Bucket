@@ -1,0 +1,7 @@
+{
+  "Name": "oac-websitetemplate",
+  "Description": "OAC pour le bucket monsite-stage-2026",
+  "SigningProtocol": "sigv4",
+  "SigningBehavior": "always",
+  "OriginAccessControlOriginType": "s3"
+}
